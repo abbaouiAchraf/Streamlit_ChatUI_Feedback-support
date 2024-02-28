@@ -18,7 +18,7 @@ st.set_page_config(
     page_icon="🤖",
 )
 
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = ""
 openai_ = OpenAIChat()
 
 # Define the CSV file path
